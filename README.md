@@ -205,7 +205,7 @@ RandomForestClassifier(
 
 ### ROC Curves (One‑vs‑Rest)
 
-![ROC Curves](iris_results/roc_curves.png)  *(add your own screenshot)*
+![ROC Curves](iris_results/roc_curves.png)  
 
 ### Feature Importance
 
@@ -228,7 +228,7 @@ RandomForestClassifier(
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/your-username/CodeAlpha_Iris_Classification/issues).
+Feel free to check the [issues page]([https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-DATA-SCIENCE-INTERNSHIP-TASK-1](https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-DATA-SCIENCE-INTERNSHIP-TASK-1)).
 
 1. Fork the project  
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)  
@@ -254,8 +254,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## 📬 Contact
 
-**Your Name** – [LinkedIn](https://linkedin.com/in/yourprofile) – [GitHub](https://github.com/your-username)  
-Project Link: [https://github.com/your-username/CodeAlpha_Iris_Classification](https://github.com/your-username/CodeAlpha_Iris_Classification)
+**DAIYAAN SHAIKH** – [LinkedIn](https://www.linkedin.com/in/daiyaan-shaikh-159909377?utm_source=share_via&utm_content=profile&utm_medium=member_android) – [GitHub](https://github.com/shaikhdaiyaan251-cloud)  
+Project Link: [[https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-DATA-SCIENCE-INTERNSHIP-TASK-1](https://github.com/shaikhdaiyaan251-cloud/CODE-ALPHA-DATA-SCIENCE-INTERNSHIP-TASK-1)]
 
 ---
 
